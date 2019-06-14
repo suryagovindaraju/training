@@ -1,0 +1,219 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/suryagovindaraj/Documents/Surya_Workspace/Training/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/suryagovindaraj/Documents/Surya_Workspace/Training/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/suryagovindaraj/Documents/Surya_Workspace/Training/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/suryagovindaraj/Documents/Surya_Workspace/Training/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /Users/suryagovindaraj/Documents/Surya_Workspace/Training/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-gesture-handler] /Users/suryagovindaraj/Documents/Surya_Workspace/Training/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-splash-screen] /Users/suryagovindaraj/Documents/Surya_Workspace/Training/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-14:12
+MERGED from [com.facebook.react:react-native:0.59.9] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/918611c531a2999d0f1cc64373baa20e/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/4041d481ce3c98fb8153c5fb598b2497/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/13a17fc5f2bb12989e6831e6228047d1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/f84852b2cedbca81255f4b9000305682/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/b44cc9ae8da8c015b0c50e6479827d01/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/76c6425947c0c94a9f84d330c294b9bd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/9d59bf2f93fa2b2872c762790db9ec07/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/848b6e61fd87d64029fe7516463f9702/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/b5da7ce5b33e006eede56105261c8894/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/a2f4b956de3961b152e4ad29c107bf1f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/2ed4943c927d98282a1075a22d933523/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/ff05b46abe5da5a787c35710b85263c4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/05542cbd26e977d7fe026203b6ef0801/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/31ef5198f36e0a7a6db4e6e38ae2d90f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/da78175b7bbb4d3c5ca7c60aa60a2c2c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/69647a0fe85299066dbf210a84b4e898/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/94ed009a907deaa0ea3c5d3cb9f91525/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/035bfea42ebcc1a9180edb64b9f1debd/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/d3905c807d4b4f40c1d06ee1ad23b03f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/621ffbf928bb348cf212a2171fb885b3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/335f4c709e7a3e472c6a355a5021b7cf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/d4472063bd1506caffe716bf7bbd26e0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/60fe123886dd95a23eb976761fa5daeb/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/dd02a033dba5e5f24f671f0eec772059/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/73548e0b77be5410d89558d8097bcc9f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/17ac316b800c2680e19bb74250d6a4bb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/a2a26f7980e0a1a9ef151379cd4da41f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/ad05a0d27690631c12ec0f7ec29daeca/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/2b4cb3c4326bbdef7af601934e068793/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/472d1889754dc7ccc8d237bf56aa08cc/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/68634cd6f14a9228b8742c81f01f0ec1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/6ab18daaa536635395b1796bedddbb4f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/6b6fa16aab513534d408e54bf43a6ba7/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/f19ef58930b8296ee4997130ae050761/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/suryagovindaraj/Documents/Surya_Workspace/Training/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/suryagovindaraj/Documents/Surya_Workspace/Training/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/suryagovindaraj/Documents/Surya_Workspace/Training/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/suryagovindaraj/Documents/Surya_Workspace/Training/android/app/src/main/AndroidManifest.xml:2:3-25
+		INJECTED from /Users/suryagovindaraj/Documents/Surya_Workspace/Training/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/suryagovindaraj/Documents/Surya_Workspace/Training/android/app/src/main/AndroidManifest.xml:2:3-25
+		INJECTED from /Users/suryagovindaraj/Documents/Surya_Workspace/Training/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/suryagovindaraj/Documents/Surya_Workspace/Training/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/suryagovindaraj/Documents/Surya_Workspace/Training/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/suryagovindaraj/Documents/Surya_Workspace/Training/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/suryagovindaraj/Documents/Surya_Workspace/Training/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/suryagovindaraj/Documents/Surya_Workspace/Training/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/suryagovindaraj/Documents/Surya_Workspace/Training/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/suryagovindaraj/Documents/Surya_Workspace/Training/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/suryagovindaraj/Documents/Surya_Workspace/Training/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/suryagovindaraj/Documents/Surya_Workspace/Training/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/suryagovindaraj/Documents/Surya_Workspace/Training/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/suryagovindaraj/Documents/Surya_Workspace/Training/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/suryagovindaraj/Documents/Surya_Workspace/Training/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/suryagovindaraj/Documents/Surya_Workspace/Training/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [:react-native-splash-screen] /Users/suryagovindaraj/Documents/Surya_Workspace/Training/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-12:19
+MERGED from [:react-native-splash-screen] /Users/suryagovindaraj/Documents/Surya_Workspace/Training/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-12:19
+MERGED from [com.facebook.react:react-native:0.59.9] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/918611c531a2999d0f1cc64373baa20e/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.59.9] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/918611c531a2999d0f1cc64373baa20e/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/69647a0fe85299066dbf210a84b4e898/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/69647a0fe85299066dbf210a84b4e898/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/94ed009a907deaa0ea3c5d3cb9f91525/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/94ed009a907deaa0ea3c5d3cb9f91525/AndroidManifest.xml:22:5-23:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/6b6fa16aab513534d408e54bf43a6ba7/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/6b6fa16aab513534d408e54bf43a6ba7/AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/69647a0fe85299066dbf210a84b4e898/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/suryagovindaraj/Documents/Surya_Workspace/Training/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Users/suryagovindaraj/Documents/Surya_Workspace/Training/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /Users/suryagovindaraj/Documents/Surya_Workspace/Training/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /Users/suryagovindaraj/Documents/Surya_Workspace/Training/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /Users/suryagovindaraj/Documents/Surya_Workspace/Training/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /Users/suryagovindaraj/Documents/Surya_Workspace/Training/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /Users/suryagovindaraj/Documents/Surya_Workspace/Training/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Users/suryagovindaraj/Documents/Surya_Workspace/Training/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/suryagovindaraj/Documents/Surya_Workspace/Training/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/suryagovindaraj/Documents/Surya_Workspace/Training/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/suryagovindaraj/Documents/Surya_Workspace/Training/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/suryagovindaraj/Documents/Surya_Workspace/Training/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/suryagovindaraj/Documents/Surya_Workspace/Training/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /Users/suryagovindaraj/Documents/Surya_Workspace/Training/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Users/suryagovindaraj/Documents/Surya_Workspace/Training/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.training.MainActivity
+ADDED from /Users/suryagovindaraj/Documents/Surya_Workspace/Training/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/suryagovindaraj/Documents/Surya_Workspace/Training/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/suryagovindaraj/Documents/Surya_Workspace/Training/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/suryagovindaraj/Documents/Surya_Workspace/Training/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/suryagovindaraj/Documents/Surya_Workspace/Training/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/suryagovindaraj/Documents/Surya_Workspace/Training/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/suryagovindaraj/Documents/Surya_Workspace/Training/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/suryagovindaraj/Documents/Surya_Workspace/Training/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/suryagovindaraj/Documents/Surya_Workspace/Training/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/suryagovindaraj/Documents/Surya_Workspace/Training/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/suryagovindaraj/Documents/Surya_Workspace/Training/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/suryagovindaraj/Documents/Surya_Workspace/Training/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/suryagovindaraj/Documents/Surya_Workspace/Training/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/suryagovindaraj/Documents/Surya_Workspace/Training/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/suryagovindaraj/Documents/Surya_Workspace/Training/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-gesture-handler] /Users/suryagovindaraj/Documents/Surya_Workspace/Training/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/suryagovindaraj/Documents/Surya_Workspace/Training/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-splash-screen] /Users/suryagovindaraj/Documents/Surya_Workspace/Training/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-splash-screen] /Users/suryagovindaraj/Documents/Surya_Workspace/Training/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.9] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/918611c531a2999d0f1cc64373baa20e/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.9] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/918611c531a2999d0f1cc64373baa20e/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/4041d481ce3c98fb8153c5fb598b2497/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/4041d481ce3c98fb8153c5fb598b2497/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/13a17fc5f2bb12989e6831e6228047d1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/13a17fc5f2bb12989e6831e6228047d1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/f84852b2cedbca81255f4b9000305682/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/f84852b2cedbca81255f4b9000305682/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/b44cc9ae8da8c015b0c50e6479827d01/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/b44cc9ae8da8c015b0c50e6479827d01/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/76c6425947c0c94a9f84d330c294b9bd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/76c6425947c0c94a9f84d330c294b9bd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/9d59bf2f93fa2b2872c762790db9ec07/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/9d59bf2f93fa2b2872c762790db9ec07/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/848b6e61fd87d64029fe7516463f9702/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/848b6e61fd87d64029fe7516463f9702/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/b5da7ce5b33e006eede56105261c8894/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/b5da7ce5b33e006eede56105261c8894/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/a2f4b956de3961b152e4ad29c107bf1f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/a2f4b956de3961b152e4ad29c107bf1f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/2ed4943c927d98282a1075a22d933523/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/2ed4943c927d98282a1075a22d933523/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/ff05b46abe5da5a787c35710b85263c4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/ff05b46abe5da5a787c35710b85263c4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/05542cbd26e977d7fe026203b6ef0801/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/05542cbd26e977d7fe026203b6ef0801/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/31ef5198f36e0a7a6db4e6e38ae2d90f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/31ef5198f36e0a7a6db4e6e38ae2d90f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/da78175b7bbb4d3c5ca7c60aa60a2c2c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/da78175b7bbb4d3c5ca7c60aa60a2c2c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/69647a0fe85299066dbf210a84b4e898/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/69647a0fe85299066dbf210a84b4e898/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/94ed009a907deaa0ea3c5d3cb9f91525/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/94ed009a907deaa0ea3c5d3cb9f91525/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/035bfea42ebcc1a9180edb64b9f1debd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/035bfea42ebcc1a9180edb64b9f1debd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/d3905c807d4b4f40c1d06ee1ad23b03f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/d3905c807d4b4f40c1d06ee1ad23b03f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/621ffbf928bb348cf212a2171fb885b3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/621ffbf928bb348cf212a2171fb885b3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/335f4c709e7a3e472c6a355a5021b7cf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/335f4c709e7a3e472c6a355a5021b7cf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/d4472063bd1506caffe716bf7bbd26e0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/d4472063bd1506caffe716bf7bbd26e0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/60fe123886dd95a23eb976761fa5daeb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/60fe123886dd95a23eb976761fa5daeb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/dd02a033dba5e5f24f671f0eec772059/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/dd02a033dba5e5f24f671f0eec772059/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/73548e0b77be5410d89558d8097bcc9f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/73548e0b77be5410d89558d8097bcc9f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/17ac316b800c2680e19bb74250d6a4bb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/17ac316b800c2680e19bb74250d6a4bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/a2a26f7980e0a1a9ef151379cd4da41f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/a2a26f7980e0a1a9ef151379cd4da41f/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/ad05a0d27690631c12ec0f7ec29daeca/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/ad05a0d27690631c12ec0f7ec29daeca/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/2b4cb3c4326bbdef7af601934e068793/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/2b4cb3c4326bbdef7af601934e068793/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/472d1889754dc7ccc8d237bf56aa08cc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/472d1889754dc7ccc8d237bf56aa08cc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/68634cd6f14a9228b8742c81f01f0ec1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/68634cd6f14a9228b8742c81f01f0ec1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/6ab18daaa536635395b1796bedddbb4f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/6ab18daaa536635395b1796bedddbb4f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/6b6fa16aab513534d408e54bf43a6ba7/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/6b6fa16aab513534d408e54bf43a6ba7/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/f19ef58930b8296ee4997130ae050761/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/suryagovindaraj/.gradle/caches/transforms-2/files-2.1/f19ef58930b8296ee4997130ae050761/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/suryagovindaraj/Documents/Surya_Workspace/Training/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/suryagovindaraj/Documents/Surya_Workspace/Training/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/suryagovindaraj/Documents/Surya_Workspace/Training/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/suryagovindaraj/Documents/Surya_Workspace/Training/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/suryagovindaraj/Documents/Surya_Workspace/Training/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/suryagovindaraj/Documents/Surya_Workspace/Training/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/suryagovindaraj/Documents/Surya_Workspace/Training/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/suryagovindaraj/Documents/Surya_Workspace/Training/android/app/src/debug/AndroidManifest.xml:5:22-75
